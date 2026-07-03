@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/javacource.iml" filepath="$PROJECT_DIR$/javacource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javacourcebyCWH/javacourcebyCWH.iml" filepath="$PROJECT_DIR$/javacourcebyCWH/javacourcebyCWH.iml" />
+    </modules>
+  </component>
+</project>
