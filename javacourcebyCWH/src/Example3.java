@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
 public class Example3 {
+
+    // Write a program to calculate percentage using marks of 5 subjects (out of 100).
     static void main(String[] args) {
         System.out.println("Percentage Calculator");
         Scanner Calculator = new Scanner(System.in);
